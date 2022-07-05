@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="Comman\AuditableEntity.cs" />
     <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Enum\AddressType.cs" />
+    <Compile Include="Enum\Gender.cs" />
+    <Compile Include="Enum\JobRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
