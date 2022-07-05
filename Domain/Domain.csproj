@@ -42,7 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Comman\AuditableEntity.cs" />
+    <Compile Include="Entities\Address.cs" />
+    <Compile Include="Entities\Attendance.cs" />
     <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\Leave.cs" />
+    <Compile Include="Entities\Registration.cs" />
+    <Compile Include="Entities\Salary.cs" />
     <Compile Include="Enum\AddressType.cs" />
     <Compile Include="Enum\Gender.cs" />
     <Compile Include="Enum\JobRole.cs" />
